@@ -25,11 +25,10 @@
                         <input type="number" class="form-control" id="student-phone" placeholder="Student Phone">
                         <label for="student-phone">Student Phone</label>
                     </div>
-
-
                     <button type="submit" class="btn btn-primary">Save changes</button>
                 </form>
             </div>
+
         </div>
     </div>
 </div>
